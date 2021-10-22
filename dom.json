@@ -1,0 +1,108 @@
+[
+	{
+		"id": "10a17bf6-35c1-4f34-9aa6-fde5f2022eb7",
+		"tag": "div",
+		"style": {
+			"background-color": "pink",
+			"padding": "20px"
+		},
+		"text": null,
+		"children": [
+			{
+				"id": "1939f537-b922-46ad-a8b8-e7d5992bfb64",
+				"tag": "div",
+				"style": null,
+				"text": null,
+				"children": [
+					{
+						"id": "ccecb97e-2bdb-4b1a-95d0-15e8660568fb",
+						"tag": "div",
+						"style": null,
+						"text": null,
+						"children": [
+							{
+								"id": "6d3fb0ce-df40-43e3-af2d-036963fc9ff8",
+								"tag": "div",
+								"style": null,
+								"text": null,
+								"children": [
+									{
+										"id": "3f52ca5c-5443-4221-86e4-bb0019392505",
+										"tag": "h1",
+										"style": null,
+										"text": "Hello World",
+										"children": [],
+										"attribute": { "selfClosing": false },
+										"event": null,
+										"data": null
+									}
+								],
+								"attribute": { "selfClosing": false },
+								"event": null,
+								"data": null
+							}
+						],
+						"attribute": { "selfClosing": false },
+						"event": null,
+						"data": null
+					},
+					{
+						"id": "6e0b73f4-80a2-4634-a16b-ccf343ef45a2",
+						"tag": "div",
+						"style": {
+							"background-color": "green",
+							"padding": "20px"
+						},
+						"text": null,
+						"children": [
+							{
+								"id": "0b6af33c-0665-45ab-aa9b-bcb5d87b5e6c",
+								"tag": "p",
+								"style": {
+									"color": "white"
+								},
+								"text": "Demo text 1",
+								"children": [],
+								"attribute": { "selfClosing": false },
+								"event": null,
+								"data": null
+							},
+							{
+								"id": "c1da75f6-f173-4d02-9ffa-8f5a5afd6889",
+								"tag": "p",
+								"style": {
+									"border": "1px solid black"
+								},
+								"text": "Demo text 2",
+								"children": [],
+								"attribute": { "selfClosing": false },
+								"event": null,
+								"data": null
+							},
+
+							{
+								"id": "c1da75f6-f173-4d02-9ffa-8f5a5afd6889",
+								"tag": "button",
+								"style": null,
+								"text": "Click",
+								"children": [],
+								"attribute": { "selfClosing": false },
+								"event": null,
+								"data": null
+							}
+						],
+						"attribute": { "selfClosing": false },
+						"event": null,
+						"data": null
+					}
+				],
+				"attribute": { "selfClosing": false },
+				"event": null,
+				"data": null
+			}
+		],
+		"attribute": { "selfClosing": false },
+		"event": null,
+		"data": null
+	}
+]
